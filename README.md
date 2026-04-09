@@ -91,18 +91,6 @@ Capstone project: collaborative budgeting for families, partners, and roommates.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shruthikauduthuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruthikauduthuri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
-
-</div>
-
----
-
 <div align="center">
   <i>Let's connect and build something great together! 🚀</i>
   <br/>
