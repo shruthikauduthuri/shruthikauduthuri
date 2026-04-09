@@ -94,12 +94,16 @@ Capstone project: collaborative budgeting for families, partners, and roommates.
 ### 📊 [AI Insight](https://github.com/shruthikauduthuri/AI-Insight)
 > Angular dashboard for AI-driven data insights
 
+An Angular-based frontend application for visualizing and exploring AI-generated insights through an interactive, component-driven dashboard.
+
 `Angular` `TypeScript`
 
 ---
 
 ### 🧠 [Q-Learning & Reinforcement Learning](https://github.com/shruthikauduthuri/QL_RL)
 > RL experiments in Jupyter Notebook
+
+Hands-on exploration of Q-learning and reinforcement learning concepts implemented in Python, demonstrating how agents learn optimal strategies through reward-based training.
 
 `Python` `Jupyter` `Reinforcement Learning`
 
