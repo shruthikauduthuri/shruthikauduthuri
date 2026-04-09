@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shruthika+Kauduthuri+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shruthika+Uduthuri+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/shruthikauduthuri/" target="_blank">
