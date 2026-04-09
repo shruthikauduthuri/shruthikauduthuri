@@ -93,6 +93,4 @@ Capstone project: collaborative budgeting for families, partners, and roommates.
 
 <div align="center">
   <i>Let's connect and build something great together! 🚀</i>
-  <br/>
-  <a href="https://www.linkedin.com/in/shruthikauduthuri/">LinkedIn</a> · <a href="https://sage-gnome-433beb.netlify.app/">Portfolio</a>
 </div>
